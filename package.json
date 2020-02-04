@@ -1,0 +1,19 @@
+{
+  "name": "web-stalker",
+  "version": "1.0.0",
+  "description": "a open-source web crawler for data mining using chrome.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fivetwentysix/web-stalker.git"
+  },
+  "author": "fivetwentysix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fivetwentysix/web-stalker/issues"
+  },
+  "homepage": "https://github.com/fivetwentysix/web-stalker#readme"
+}
