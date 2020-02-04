@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fivetwentysix/web-stalker/issues"
   },
-  "homepage": "https://github.com/fivetwentysix/web-stalker#readme"
+  "homepage": "https://github.com/fivetwentysix/web-stalker#readme",
+  "dependencies": {
+    "puppeteer": "^2.1.0"
+  }
 }
